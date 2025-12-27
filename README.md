@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">⚡ Augusto Muller</h1>
-<h3 align="center">Desenvolvedor Full Stack | .NET • Angular • Flutter</h3>
+<h3 align="center">Desenvolvedor Full Stack | Java • Python</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/seuperfil" target="_blank">
@@ -17,8 +17,8 @@
 ---
 
 ## 🧠 Sobre mim
-Sou **Desenvolvedor Full Stack**, com base sólida em **Suporte Técnico**, o que me deu visão real de negócio, usuário e infraestrutura.  
-Hoje atuo com **.NET, Angular e Flutter**, criando aplicações **web e mobile** focadas em performance, escalabilidade e código limpo.
+Sou **Desenvolvedor Full Stack**, com foco no desenvolvimento de aplicações **web, APIs e automações**.  
+Atuo profissionalmente com **Java e Python**, criando soluções escaláveis, bem estruturadas e orientadas a boas práticas, performance e qualidade de código.
 
 ---
 
@@ -26,27 +26,22 @@ Hoje atuo com **.NET, Angular e Flutter**, criando aplicações **web e mobile**
 
 ### 🔹 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,flask,fastapi" />
 </p>
 
 ### 🔹 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js" />
-</p>
-
-### 🔹 Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🔹 Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
 </p>
 
 ### 🔹 Dev & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,intellij" />
 </p>
 
 ---
@@ -81,9 +76,9 @@ Hoje atuo com **.NET, Angular e Flutter**, criando aplicações **web e mobile**
 ---
 
 ## 🚀 Projetos em Destaque
-- 💼 **Sistema Corporativo** – .NET + Angular  
-- 📱 **App Mobile** – Flutter  
-- 🌐 **Portfólio Profissional** – Deploy Vercel  
+- ☕ **API REST** — Java + Spring Boot  
+- 🐍 **Sistema Backend** — Python + FastAPI  
+- 🌐 **Portfólio Profissional** — Deploy Vercel  
 
 👉 Veja todos os projetos abaixo 👇
 
