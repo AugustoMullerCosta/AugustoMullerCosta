@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Augusto Muller
 
-<!--
-**AugustoMullerCosta/AugustoMullerCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack  
+🧠 Experiência prévia em Suporte Técnico  
+🚀 Atualmente atuando como desenvolvedor, com foco em soluções práticas, escaláveis e código limpo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- C# | .NET | ASP.NET
+- Angular | TypeScript
+- Flutter | Dart
+- HTML | CSS | JavaScript
+- Git & GitHub
+  
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/augusto-muller-da-costa-b26710321
+- Email: augustomuller2402@gmail.com
