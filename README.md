@@ -48,29 +48,29 @@ Atuo profissionalmente com **Java e Python**, criando soluções escaláveis, be
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AugustoMullerCosta&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMullerCosta&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AugustoMullerCosta&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🏆 Conquistas
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AugustoMullerCosta&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
 
 ## 🐍 Contribuições em ação
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/AugustoMullerCosta/AugustoMullerCosta/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
