@@ -47,10 +47,9 @@ Atuo profissionalmente com **Java e Python**, criando soluções escaláveis, be
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AugustoMullerCosta&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMullerCosta&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
+  <img width="45%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=augustomullercosta&theme=react&line_height=40&hide=css" alt="Augusto stats" />
+</div>
 
 ---
 
