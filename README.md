@@ -48,15 +48,15 @@ Atuo profissionalmente com **Java e Python**, criando soluções escaláveis, be
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AugustoMullerCosta&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMullerCosta&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AugustoMullerCosta&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMullerCosta&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AugustoMullerCosta&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=AugustoMullerCosta&theme=tokyonight"/>
 </p>
 
 ---
@@ -72,17 +72,6 @@ Atuo profissionalmente com **Java e Python**, criando soluções escaláveis, be
 <p align="center">
   <img src="https://raw.githubusercontent.com/AugustoMullerCosta/AugustoMullerCosta/output/github-contribution-grid-snake.svg"/>
 </p>
-
----
-
-## 🚀 Projetos em Destaque
-- ☕ **API REST** — Java + Spring Boot  
-- 🐍 **Sistema Backend** — Python + FastAPI  
-- 🌐 **Portfólio Profissional** — Deploy Vercel  
-
-👉 Veja todos os projetos abaixo 👇
-
----
 
 ## 📫 Contato
 - 💼 LinkedIn: https://linkedin.com/in/seuperfil  
